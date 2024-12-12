@@ -1,5 +1,5 @@
 NAME := my-echo
-REPOSITORY := Paraponera-clavata/$(NAME)
+REPOSITORY := paraponera1011/$(NAME)
 TAG := 20240710
 GOOS := linux
 GOARCH := amd64
